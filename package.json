@@ -4,6 +4,8 @@
   "description": "",
   "main": "Gruntfile.js",
   "scripts": {
+    "registry:install": "./scripts/registry_install.sh",
+    "registry:update": "./scripts/registry_update.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
